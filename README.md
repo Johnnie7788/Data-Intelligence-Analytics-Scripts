@@ -3,6 +3,6 @@ These scripts are designed to help organizations make informed, data-driven deci
 
 Feel free to explore the repository, review the projects, and adapt the code to suit your needs.
 
-Email: johnjonsonogbidi@gmail.com
+Email: johnjohnsonogbidi@gmail.com
 
 
