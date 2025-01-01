@@ -4,8 +4,4 @@ These scripts are designed to help organizations make informed, data-driven deci
 
 Feel free to explore the repository, review the projects, and adapt the code to suit your needs.
 
-Contact
 
-For any inquiries, collaborations, or job opportunities, please reach out to me:
-
-Email: johnjohnsonogbidi@gmail.com
